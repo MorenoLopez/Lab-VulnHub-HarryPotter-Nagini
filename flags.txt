@@ -1,0 +1,39 @@
+
+/var/www/html/horcrux1.txt:
+
+    horcrux_{MzogU2x5dGhFcmlOJ3MgTG9jS0VldCBkRXN0cm9ZZUQgYlkgUm9O}
+
+
+    base64 decoded : 3: SlythEriN's LocKEet dEstroYeD bY RoN
+
+
+
+/home/hermoine/horcrux2.txt:
+
+    horcrux_{NDogSGVsZ2EgSHVmZmxlcHVmZidzIEN1cCBkZXN0cm95ZWQgYnkgSGVybWlvbmU=}
+
+    base64 decoded : 4: Helga Hufflepuff's Cup destroyed by Hermione
+
+
+
+
+/home/root/hocrux3.txt:
+
+      ____                            _         _       _   _                 
+     / ___|___  _ __   __ _ _ __ __ _| |_ _   _| | __ _| |_(_) ___  _ __  ___ 
+    | |   / _ \| '_ \ / _` | '__/ _` | __| | | | |/ _` | __| |/ _ \| '_ \/ __|
+    | |__| (_) | | | | (_| | | | (_| | |_| |_| | | (_| | |_| | (_) | | | \__ \
+     \____\___/|_| |_|\__, |_|  \__,_|\__|\__,_|_|\__,_|\__|_|\___/|_| |_|___/
+                      |___/                                                   
+    
+    
+    Machine Author: Mansoor R (@time4ster)
+    Machine Difficulty: Medium
+    Machine Name: Nagini
+    Horcruxes Hidden in this VM: 3 horcruxes
+    
+    You have successfully pwned Nagini machine.
+    Here is your third hocrux: horcrux_{NTogRGlhZGVtIG9mIFJhdmVuY2xhdyBkZXN0cm95ZWQgYnkgSGFycnk=}
+
+
+    base64 decoded : 5: Diadem of Ravenclaw destroyed by Harryroot@Nagini
